@@ -1,2 +1,2 @@
 # Misc-Code
-Miscellaneous scripts and functions writtennten mostly in MATLAB.
+Miscellaneous scripts and functions written mostly in MATLAB.
